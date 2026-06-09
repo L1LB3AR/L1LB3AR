@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Alberto 👋
 
-<!--
-**L1LB3AR/L1LB3AR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior DevOps & Sysadmin based in Madrid 🇪🇸
 
-Here are some ideas to get you started:
+Currently finishing my ASIR degree and building a home lab from scratch
+to learn by doing — not just by studying.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **OS:** Linux (EndeavourOS, Ubuntu Server), Windows Server
+- **Infra:** Docker, Kubernetes (K3s), Proxmox
+- **Automation:** Ansible, Terraform
+- **CI/CD:** GitHub Actions, GitLab CE
+- **Scripting:** Python, Bash, PowerShell
+- **Networking:** TCP/IP, VLANs, Firewall, VPN, DNS
+- **Other:** Active Directory, SQL, FastAPI
+
+## 🚀 Current Projects
+
+| Project | Description | Status |
+|---|---|---|
+| homelab-infrastructure | Base server setup, SSH hardening, monitoring | 🔧 In progress |
+| k3s-cluster | Kubernetes cluster on dedicated hardware | 📅 Planned |
+| cicd-pipeline | Self-hosted CI/CD with GitLab CE | 📅 Planned |
+| terraform-ansible | Infrastructure as Code for the homelab | 📅 Planned |
+| cloudflare-tunnel | Secure remote access to homelab | 📅 Planned |
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alberto-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alberto-chozas-enrique/)
