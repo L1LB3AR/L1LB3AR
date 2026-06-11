@@ -19,7 +19,7 @@ to learn by doing — not just by studying.
 
 | Project | Description | Status |
 |---|---|---|
-| homelab-infrastructure | Base server setup, SSH hardening, monitoring | 🔧 In progress |
+| homelab-infrastructure | Base server setup, SSH hardening, monitoring | ✅ Live |
 | k3s-cluster | Kubernetes cluster on dedicated hardware | 📅 Planned |
 | cicd-pipeline | Self-hosted CI/CD with GitLab CE | 📅 Planned |
 | terraform-ansible | Infrastructure as Code for the homelab | 📅 Planned |
